@@ -23,6 +23,6 @@ const config: StorybookConfig = {
       ],
     });
   },
-};
+} as StorybookConfig;
 
 module.exports = config;
